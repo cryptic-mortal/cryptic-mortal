@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on my First Data Science Project - [**Placement Analyis**](https://github.com/cryptic-mortal/First_DS_project)
+- 🔭 I’m currently working on my First Data Science Project - [**IPL Data Analysis**](https://github.com/cryptic-mortal/Howzat)
 - 🌱 I’m currently learning **Data Science, Working with Git and Github, Trading and Data Structures**
 - 👯 I’m looking to collaborate on **Data Science and Machine learning**
 - 🤔 I’m looking for help with **Contributing to Open Source**
