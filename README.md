@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on my First Data Science Project - [**nash-core**](https://github.com/cryptic-mortal/nash-core
+- 🔭 I’m currently working on my First Data Science Project - [**nash-core**](https://github.com/cryptic-mortal/nash-core)
 - 🌱 I’m currently learning **Reinforcement Learning, Quantitative Finance and Modern c++**
 - 👯 I’m looking to collaborate on **projects in cpp**
 - 🤔 I’m looking for help with **Contributing to Open Source**
